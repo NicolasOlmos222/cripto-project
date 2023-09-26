@@ -6,6 +6,8 @@ Las criptomonedas son un tipo de monedas virtuales que se pueden intercambiar en
 
 Asimismo existen los “exchange”, que son plataformas en donde uno puede comprar y vender estas criptomonedas, y que el precio de compra y venta varía entre las mismas (se puede establecer un paralelismo con el dólar, en donde los “exchange” serían los bancos, los cuales en cada uno tiene un precio diferente -algunos más caros y otros más baratos-). Ejemplos de exchanges de Argentina son SatoshiTango, ArgenBTC, etc.
 
+https://docs.google.com/document/d/1Bd7xIlH7FiRX-j5nOczL6iRKWBOXWGQ64ah9F2J3et4/edit
+https://github.com/users/NicolasOlmos222/projects/10
 
 # cripto-project
 
